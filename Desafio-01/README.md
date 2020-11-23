@@ -34,20 +34,12 @@ Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e rit
 
 Defina qual será seu horário de estudo, criando tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com seus objetivos!
 
-### Modelo de cronograma
-
-Para te ajudar nesse desafio, criamos para você um modelo que você pode duplicar através da plataforma Notion.
-
-O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e ambas podem ser baixadas em sua [página oficial](https://www.notion.so/product).
-
-Para começar a utilizar o modelo, você deve acessar o link disponibilizado abaixo, e clicar no botão "Duplicate" que fica no menu do canto superior direito da tela.
-
-📄 **[Link para o modelo](https://www.notion.so/Cronograma-do-bootcamp-4f6ab3da30eb4aa995562e002f5c0b79)**
+📄 **[Link para o modelo feito](https://www.notion.so/Cronograma-do-bootcamp-4f6ab3da30eb4aa995562e002f5c0b79)**
 
 ### Definindo o cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/Cronograma-diario.png">
+  <img width="80%" src="./assets/Cronograma-semanal.png">
 </p>
 
 Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
@@ -55,20 +47,12 @@ Nessa sessão você deve informar os horários fixos que você irá se dedicar d
 ### Definindo o cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/Cronograma-semanal.png">
+  <img width="80%" src="./assets/Cronograma-diario.png">
 </p>
 
 Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
 
 Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio calendário de estudos, para que você consiga sempre se manter organizado e focado nos seus objetivos.
-
-Nesse modelo já deixamos preparados tudo o que você pode fazer para essa primeira semana de conteúdos do Bootcamp, você apenas precisará adaptar ao seu ritmo.
-
-Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
-
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Após concluir o desafio, fazer um post no Linkedin sobre ele é uma boa forma de demonstrar seus esforços para evoluir na sua carreira para oportunidades futuras.
 
 ## :memo: Licença
 
