@@ -34,6 +34,10 @@ Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e rit
 
 Defina qual será seu horário de estudo, criando tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com seus objetivos!
 
+Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
+
+Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio calendário de estudos, para que você consiga sempre se manter organizado e focado nos seus objetivos.
+
 📄 **[Link para o modelo feito](https://www.notion.so/Cronograma-do-bootcamp-4f6ab3da30eb4aa995562e002f5c0b79)**
 
 ### Definindo o cronograma semanal
@@ -49,10 +53,6 @@ Nessa sessão você deve informar os horários fixos que você irá se dedicar d
 <p align="center">
   <img width="80%" src="./assets/Cronograma-diario.png">
 </p>
-
-Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
-
-Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio calendário de estudos, para que você consiga sempre se manter organizado e focado nos seus objetivos.
 
 ## :memo: Licença
 
