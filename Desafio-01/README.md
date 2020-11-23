@@ -42,11 +42,11 @@ Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio c
 
 ### Definindo o cronograma semanal
 
+Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
+
 <p align="center">
   <img width="80%" src="./assets/Cronograma-semanal.png">
 </p>
-
-Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
 
 ### Definindo o cronograma diário
 
