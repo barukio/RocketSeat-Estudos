@@ -8,7 +8,8 @@
 
 ## Índice de desafios
 
-- [01 - Planejando meus estudos](https://github.com/)
+- [01 - Planejando meus estudos](https://github.com/barukio/RocketSeat-Estudos/tree/main/Desafio-01)
+- [02 - Conceitos de node.JS](https://github.com/barukio/Desafio-02)
 
 ## :memo: Licença
 
